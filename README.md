@@ -1,4 +1,4 @@
-# Проект «Мини-игра Змейка на JS» ![Snake mini](https://github.com/ParamonovIvan/Snake_PJ-05/assets/131868856/96135ac2-1868-495f-9bc8-80f32a526239)
+# Проект «Мини-игра Змейка на JS» ![snake](https://github.com/ParamonovIvan/Snake_PJ-05/assets/131868856/340eae9a-6951-4828-b112-8db09d8a0af5)
 
 ### Задачи проекта:
 
