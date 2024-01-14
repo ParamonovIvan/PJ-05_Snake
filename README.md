@@ -76,7 +76,7 @@
 
 #### Ссылка на страницу с игрой:
 
-+ https://paramonovivan.github.io/Snake_PJ-05/
++ https://paramonovivan.github.io/PJ-05_Snake/
 
 #### Внешний вид страницы с игрой
 
